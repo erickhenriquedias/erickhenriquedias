@@ -17,7 +17,7 @@
   <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickhenriquedias&show_icons=true&theme=dark" />
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
+  <a href="https://github.com/erickhenriquedias/github-readme-stats">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhenriquedias&layout=compact&theme=dark" />
   </a>
 </div>
