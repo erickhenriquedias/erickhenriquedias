@@ -35,3 +35,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickhenriquedias/erickhenriquedias/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickhenriquedias/erickhenriquedias/output/github-contribution-grid-snake.svg">
 </picture>
+<img src="https://github-profile-trophy.vercel.app/?username=erickhenriquedias&theme=onedark&row=1&column=6&no-bg=true&no-frame=true" alt="erickhenriquedias trophies"/>
