@@ -12,16 +12,8 @@
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickhenriquedias&show_icons=true&theme=dark" />
-
-  <a href="https://github.com/erickhenriquedias/github-readme-stats">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhenriquedias&layout=compact&theme=dark" />
-  </a>
-</div>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erickhenriquedias&theme=2077" alt="Profile details badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erickhenriquedias&theme=2077" alt="Top languages by commit badge"/>
 
 ## Tools and Technologies
 <p align="left">
