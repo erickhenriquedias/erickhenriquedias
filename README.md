@@ -6,9 +6,7 @@
 
 
 - 👋 I’m Erick Henrique
-- 🌱 I’m currently learning javascript,c# and typescript
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: FPS Games Lover
+- 🌱 I’m currently learning python, c++ and typescript
 
 #
 
@@ -17,8 +15,9 @@
 
 ## Tools and Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
 </p>
 
@@ -34,5 +33,5 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickhenriquedias/erickhenriquedias/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickhenriquedias/erickhenriquedias/output/github-contribution-grid-snake.svg">
-</picture>
-<img src="https://github-profile-trophy.vercel.app/?username=erickhenriquedias&theme=onedark&row=1&column=6&no-bg=true&no-frame=true" alt="erickhenriquedias trophies"/>
+
+
